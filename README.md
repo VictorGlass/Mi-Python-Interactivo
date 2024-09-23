@@ -83,6 +83,7 @@ Aquí vemos el progreso y el contenido de cada sección:
 
 **6. Listas:**
    - Introducción a Listas.
+   - Slicing en Listas.
 
 
 
