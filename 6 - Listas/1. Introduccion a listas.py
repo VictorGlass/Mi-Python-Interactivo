@@ -44,7 +44,8 @@ primer_elemento([1, 2, 3, 4, 5])  # 1
 '''
 
 # Escribe tu código aquí
-def 
+def primer_elemento(lista):
+    return lista[0]
 
 # Fin
 print(primer_elemento([3, 4, 1, 5]))
