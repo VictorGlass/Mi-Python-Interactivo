@@ -91,16 +91,10 @@ Aquí vemos el progreso y el contenido de cada sección:
 
 Actualmente voy en la sección Nº6. Las demas estan en progreso y las iré añadiendo en los proximos dias.
 
-Sienteté libre de clonar este repositorio y seguir el progreso, o contribuir a las secciones pendientes.
 
 
-##¿Cómo Clonar y Usar el Repositorio?
-
-Para descargar este proyecto, puedes clonarlo usando el siguiente comando:
-
-git clone https://github.com/VictorGlass/AprendiendoPythonPorConceptos.git
 
 
-## Contribuciones
 
-Si deseas mejorar o agregar contenido a alguna de las secciones, eres bienvenido a abrir un issue o hacer un pull request. ¡La colaboración es bienvenida!
+
+
