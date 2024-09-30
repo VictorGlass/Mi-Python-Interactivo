@@ -100,6 +100,11 @@ Aquí vemos el progreso y el contenido de cada sección:
   - Un elefante se balanceaba.
   - Desde hasta.
   - Contando de dos en dos.
+  - Ciclos infinitos.
+  - Sumando ciclos.
+  - Sumar de 2 en 2.
+  - Productoria.
+  - Encontrando divisores.
 
 
 
