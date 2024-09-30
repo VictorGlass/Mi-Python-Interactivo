@@ -94,6 +94,11 @@ Aquí vemos el progreso y el contenido de cada sección:
    - Juntar dos listas.
    - De variable a lista.
 
+**7. Ciclos:**
+
+  - Repetir con ciclos.
+  - Un elefante se balanceaba.
+
 
 
 ## Proximas Actualizaciones
