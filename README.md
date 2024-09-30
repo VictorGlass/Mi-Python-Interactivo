@@ -86,6 +86,13 @@ Aquí vemos el progreso y el contenido de cada sección:
    - Slicing en Listas.
    - Largo de una Lista.
    - Último Elemento.
+   - Agregando un elemento al final de un arreglo.
+   - Limpiar y agregar.
+   - Borrar un elemento con pop().
+   - Membresias.
+   - Rotar a la izquierda.
+   - Juntar dos listas.
+   - De variable a lista.
 
 
 
