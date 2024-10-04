@@ -106,6 +106,12 @@ Aquí vemos el progreso y el contenido de cada sección:
   - Productoria.
   - Encontrando divisores.
 
+**8. Ciclos anidados y patrones:**
+
+  - Media pirámide.
+  - Cuadrado.
+  - Línea por medio.
+
 
 
 ## Proximas Actualizaciones
