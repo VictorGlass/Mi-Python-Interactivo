@@ -111,6 +111,10 @@ Aquí vemos el progreso y el contenido de cada sección:
   - Media pirámide.
   - Cuadrado.
   - Línea por medio.
+  - Línea por medio parte 2.
+  - Cuadrado hueco.
+  - Diagonal.
+  - Media pirámide izquierda.
 
 
 
