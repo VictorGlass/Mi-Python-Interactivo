@@ -115,6 +115,8 @@ Aquí vemos el progreso y el contenido de cada sección:
   - Cuadrado hueco.
   - Diagonal.
   - Media pirámide izquierda.
+  - Dibujando tablas.
+  - Tabla de multiplicar.
 
 
 
