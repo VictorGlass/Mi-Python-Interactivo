@@ -118,6 +118,12 @@ Aquí vemos el progreso y el contenido de cada sección:
   - Dibujando tablas.
   - Tabla de multiplicar.
 
+**9. Recorriendo Listas y Secuencias**
+
+  - Recorrer una lista.
+  - Recorrer los primeros n datos.
+  - Desde hasta.
+
 
 
 ## Proximas Actualizaciones
